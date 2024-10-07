@@ -1,0 +1,13 @@
+DEBUG   2024-06-08 20:16:27,163 [main] org.testng.TestNG  - suiteXmlPath: "C:\Users\nguye\eclipse-workspace\PageObjectModalBasics\src\test\resources\com\w2a\runner\testng.xml"
+DEBUG   2024-06-08 20:16:27,975 [main]   - config file loaded !!!!
+DEBUG   2024-06-08 20:16:27,975 [main]   - config file loaded !!!!
+DEBUG   2024-06-08 20:16:29,209 [main]   - Chrome launched  !!!!
+DEBUG   2024-06-08 20:16:29,792 [main]   - Navigated to https://www.saucedemo.com/
+DEBUG   2024-06-08 20:16:30,666 [main]   - Typing in an Element : username_id entered value as : standard_user
+DEBUG   2024-06-08 20:16:30,746 [main]   - Typing in an Element : password_id entered value as : secret_sauce
+DEBUG   2024-06-08 20:16:30,833 [main]   - Clicking on an Element : btnLogin_id
+DEBUG   2024-06-08 20:16:31,365 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG   2024-06-08 20:16:31,366 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG   2024-06-08 20:16:31,367 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2024-06-08 20:16:31,368 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2024-06-08 20:16:31,368 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/nguye/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
